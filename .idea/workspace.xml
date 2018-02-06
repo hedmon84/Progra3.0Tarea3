@@ -11,9 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fe54c73-0f31-4465-9d3b-72f527645667" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6fe54c73-0f31-4465-9d3b-72f527645667" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,11 +72,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Salario.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Salario.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Salario.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.16.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.16.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -94,6 +102,7 @@
       <list>
         <option value="$PROJECT_DIR$/Kilometraje.cpp" />
         <option value="$PROJECT_DIR$/Salario.cpp" />
+        <option value="$PROJECT_DIR$/4.16.cpp" />
       </list>
     </option>
   </component>
@@ -186,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1517610587600</updated>
       <workItem from="1517610590529" duration="504000" />
-      <workItem from="1517892229396" duration="1465000" />
+      <workItem from="1517892229396" duration="2007000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1517894245404</created>
@@ -202,11 +211,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517895019435</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create">
+      <created>1517895561883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517895561883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1969000" />
+    <option name="totallyTimeSpent" value="2511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -323,7 +339,15 @@
     <entry file="file://$PROJECT_DIR$/Salario.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.16.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>
